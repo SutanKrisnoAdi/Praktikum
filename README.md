@@ -10,10 +10,12 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
   
 # Langkah-langkah:
     1. Buat programnya terlebih dahulu seperti gambar dibawah ini
-   ![image1.png](sikirinsot/prak41.png)
+   ![prak41](https://user-images.githubusercontent.com/115932597/202976509-45a22518-7325-42d1-b4a3-c576a07c3a69.png)
+
    
     2. Hasil Run
-   ![image2.png](sikirinsot/prak42.png)
+   ![prak42](https://user-images.githubusercontent.com/115932597/202976544-c30685fd-e003-473c-89ce-2061fbc1d081.png)
+
    
 # Penjelasan Program :
     1. Buatlah list berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS.
@@ -26,6 +28,7 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
     8. Selesai
     
 # Flowchart Praktikum 4
-  ![image3.png](sikirinsot/flowchartprak4.png)
+  ![flowchartprak4](https://user-images.githubusercontent.com/115932597/202976580-74d02c13-62a9-47bb-81c7-bdd1306205d1.jpg)
+
   
 # Sekian TerimaKasih
